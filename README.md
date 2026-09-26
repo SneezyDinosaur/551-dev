@@ -1,4 +1,4 @@
-# 551 Season 2 Official - Release 1.0.0
+# 551 Season 2 Official - Release 1.1.0
 
 This repository acts as the shared resource for managing the maps, campaigns, rules, and other assets required to run 551.
 
