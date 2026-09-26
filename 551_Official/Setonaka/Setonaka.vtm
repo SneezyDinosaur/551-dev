@@ -1,0 +1,90 @@
+VTMapCustom
+{
+	mapID = Setonaka
+	mapName = 
+	mapDescription = 
+	mapType = HeightMap
+	edgeMode = Water
+	longitude = 26.4
+	latitude = 0
+	cloudHeightOffset = 0
+	biome = Boreal
+	seed = seed
+	mapSize = 64
+	TerrainSettings
+	{
+	}
+	StaticPrefabs
+	{
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 0
+			globalPos = (99156.8310546875, 164.685546875, 18518.9697265625)
+			rotation = (0, 37.01169, 0)
+			grid = (32,6)
+			tSpacePos = (-852.8313, 86.96972, 164.6855)
+			terrainToLocalMatrix = -0.7985128;-0.6019781;7.176138E-08;-628.6427;0;-1.192093E-07;1;-164.6855;-0.6019782;0.7985128;-9.519012E-08;-582.8321;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 2
+			globalPos = (95736.90673828125, 157.62109375, 163135.1416015625)
+			rotation = (0, 200.5576, 0)
+			grid = (31,53)
+			tSpacePos = (-504.9069, 319.1416, 157.6211)
+			terrainToLocalMatrix = 0.9363199;0.3511497;-4.18603E-08;360.6877;0;-1.192093E-07;1;-157.6211;0.3511497;-0.9363198;1.11618E-07;476.1164;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 3
+			globalPos = (68746.58935546875, 104.337890625, 14748.0625)
+			rotation = (0, 44.0642, 0)
+			grid = (22,4)
+			tSpacePos = (-1162.59, 2460.063, 104.3376)
+			terrainToLocalMatrix = -0.7185611;-0.6954641;8.290578E-08;875.4942;0;-1.192093E-07;1;-104.3379;-0.6954643;0.718561;-8.565914E-08;-2576.244;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase3
+			id = 4
+			globalPos = (159631.9619140625, 238.5361328125, 32856.029296875)
+			rotation = (0, 44.0642, 0)
+			grid = (51,10)
+			tSpacePos = (-2959.962, 2136.03, 238.5359)
+			terrainToLocalMatrix = -0.7185611;-0.695464;8.290576E-08;-641.3824;0;-1.192093E-07;1;-238.5361;-0.6954641;0.718561;-8.565914E-08;-3593.415;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase2
+			id = 5
+			globalPos = (41570.18310546875, 420.919921875, 159585.447265625)
+			rotation = (0, 0.4603503, 0)
+			grid = (13,51)
+			tSpacePos = (-1634.184, 2913.448, 420.9197)
+			terrainToLocalMatrix = -0.9999679;-0.008034542;9.57792E-10;-1610.722;0;-1.192093E-07;1;-420.9199;-0.008034543;0.9999678;-1.192054E-07;-2926.483;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 6
+			globalPos = (137071.2255859375, 44.861328125, 170470.556640625)
+			rotation = (0, 1.043392, 0)
+			grid = (44,55)
+			tSpacePos = (-1903.226, 1510.557, 44.86121)
+			terrainToLocalMatrix = -0.9998344;-0.01820963;2.170757E-09;-1875.402;0;-1.192093E-07;1;-44.86133;-0.01820963;0.9998343;-1.191895E-07;-1544.963;0;0;0;1;
+			baseName = 
+		}
+	}
+	BezierRoads
+	{
+	}
+}
+

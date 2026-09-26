@@ -1,0 +1,112 @@
+VTMapCustom
+{
+	mapID = Pillars
+	mapName = 
+	mapDescription = 
+	mapType = HeightMap
+	edgeMode = Hills
+	longitude = 0
+	latitude = 26.4
+	cloudHeightOffset = -1
+	biome = Boreal
+	seed = seed
+	mapSize = 64
+	TerrainSettings
+	{
+	}
+	StaticPrefabs
+	{
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 10
+			globalPos = (90685.271484375, 693.07421875, 36161.025390625)
+			rotation = (0, 148.0782, 0)
+			grid = (29,11)
+			tSpacePos = (-1597.272, 2369.026, 693.074)
+			terrainToLocalMatrix = 0.8487712;-0.5287608;6.303319E-08;2608.365;0;-1.192093E-07;1;-693.0742;-0.5287609;-0.8487711;1.011814E-07;1166.184;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 9
+			globalPos = (83717.12939453125, 281.119140625, 31772.833984375)
+			rotation = (0, 96.16762, 0)
+			grid = (27,10)
+			tSpacePos = (-773.1296, 1052.834, 281.119)
+			terrainToLocalMatrix = 0.1074375;-0.994212;1.185193E-07;1129.802;0;-1.192093E-07;1;-281.1191;-0.9942122;-0.1074375;1.280755E-08;-655.5406;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase2
+			id = 8
+			globalPos = (132689.21826171875, 269.82568359375, 169433.51171875)
+			rotation = (0, 96.16762, 0)
+			grid = (43,55)
+			tSpacePos = (-593.2184, 473.5117, 269.8257)
+			terrainToLocalMatrix = 0.1074376;-0.9942121;1.185193E-07;534.5056;0;-1.192093E-07;1;-269.8257;-0.9942122;-0.1074376;1.280756E-08;-538.9118;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 7
+			globalPos = (119772.67919921875, 422.7578125, 173291.2421875)
+			rotation = (0, 322.7028, 0)
+			grid = (38,56)
+			tSpacePos = (-3036.68, 1259.242, 422.7578)
+			terrainToLocalMatrix = -0.7955033;0.6059495;-7.22348E-08;-3178.724;0;-1.192093E-07;1;-422.7578;0.6059496;0.7955033;-9.483136E-08;838.3431;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 2
+			globalPos = (48839.49560546875, 55.159423828125, 169193.16748046875)
+			rotation = (0, 181.4893, 0)
+			grid = (15,55)
+			tSpacePos = (-2759.496, 233.1675, 55.15939)
+			terrainToLocalMatrix = 0.9996624;0.0259902;-3.098273E-09;2752.503;0;-1.192093E-07;1;-55.15942;0.0259902;-0.9996623;1.19169E-07;304.8084;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 1
+			globalPos = (137493.19262695313, 215.572509765625, 48810.99462890625)
+			rotation = (0, 0, 0)
+			grid = (44,15)
+			tSpacePos = (-2325.193, 2730.995, 215.5723)
+			terrainToLocalMatrix = -1;0;0;-2325.193;0;-1.192093E-07;1;-215.5725;0;1;-1.192093E-07;-2730.995;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase1
+			id = 11
+			globalPos = (31335.8212890625, 492.015625, 120864.6640625)
+			rotation = (0, 306.0578, 0)
+			grid = (10,39)
+			tSpacePos = (-615.8214, 1056.664, 492.0156)
+			terrainToLocalMatrix = -0.5886015;0.8084236;-9.637159E-08;-1216.705;0;-1.192093E-07;1;-492.0156;0.8084236;0.5886014;-7.016675E-08;-124.1093;0;0;0;1;
+			baseName = 
+		}
+		StaticPrefab
+		{
+			prefab = airbase2
+			id = 13
+			globalPos = (187396.09375, 1436.138671875, 86934.990234375)
+			rotation = (0, 323.4157, 0)
+			grid = (61,28)
+			tSpacePos = (-4.093751, 918.9902, 1436.139)
+			terrainToLocalMatrix = -0.8029814;0.5960044;-7.104925E-08;-551.0112;0;-1.192093E-07;1;-1436.139;0.5960044;0.8029814;-9.572283E-08;-735.4912;0;0;0;1;
+			baseName = 
+		}
+	}
+	BezierRoads
+	{
+	}
+}
+
