@@ -1,11 +1,11 @@
 CustomScenario
 {
-	gameVersion = 1.12.6m1
-	campaignID = 551
-	campaignOrderIdx = 0
+	gameVersion = 1.13.4f1
+	campaignID = 551_Official
+	campaignOrderIdx = 1
 	scenarioName = 551 Caldera
 	scenarioID = 551 Caldera
-	scenarioDescription = Ringtail's 5-5-1 with King of the Hill Stalemate resolution.///nControl point radius is 10 NM (18.52 km) and will activate after 10 minutes
+	scenarioDescription = Ringtail's 5-5-1 with King of the Hill Stalemate resolution. Control point radius is 10 NM (18.52 km) and will activate after 10 minutes
 	mapID = Caldera
 	vehicle = F-45A
 	multiplayer = True
@@ -56,7 +56,7 @@ CustomScenario
 		PRESET
 		{
 			id = 8
-			data = Light Fog;4000;0.65;0.33;0.63;0.32;0.0;0.0;0.6;(1, 1, 1, 1);1;3000;0.34;
+			data = Light Fog;4000;0.65;0.33;0.63;0.32;0;0;0.6;(1, 1, 1, 1);1;3000;0.34;
 		}
 	}
 	UNITS
@@ -64,11 +64,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-1
-			globalPosition = (31034.35, 1349.916, 71011.64)
+			globalPosition = (31034.349999999999, 1349.9159999999999, 71011.639999999999)
 			unitInstanceID = 0
 			unitID = MultiplayerSpawn
 			rotation = (0, 0, 0)
-			lastValidPlacement = (31034.35, 1349.916, 71011.64)
+			lastValidPlacement = (31034.349999999999, 1349.9159999999999, 71011.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -76,7 +76,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -92,7 +92,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31034.35, 1349.916, 71011.64)
+				globalPos = (31034.349999999999, 1349.9159999999999, 71011.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -102,7 +102,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -122,11 +122,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-2
-			globalPosition = (31017.35, 1349.916, 70985.64)
+			globalPosition = (31017.349999999999, 1349.9159999999999, 70985.639999999999)
 			unitInstanceID = 1
 			unitID = MultiplayerSpawn
 			rotation = (0, 0, 0)
-			lastValidPlacement = (31017.35, 1349.916, 70985.64)
+			lastValidPlacement = (31017.349999999999, 1349.9159999999999, 70985.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -134,7 +134,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -150,7 +150,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31017.35, 1349.916, 70985.64)
+				globalPos = (31017.349999999999, 1349.9159999999999, 70985.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -160,7 +160,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -180,11 +180,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-3
-			globalPosition = (31050.35, 1349.916, 70985.64)
+			globalPosition = (31050.349999999999, 1349.9159999999999, 70985.639999999999)
 			unitInstanceID = 2
 			unitID = MultiplayerSpawn
 			rotation = (0, 0, 0)
-			lastValidPlacement = (31050.35, 1349.916, 70985.64)
+			lastValidPlacement = (31050.349999999999, 1349.9159999999999, 70985.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -192,7 +192,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -208,7 +208,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31050.35, 1349.916, 70985.64)
+				globalPos = (31050.349999999999, 1349.9159999999999, 70985.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -218,7 +218,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -238,11 +238,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Golf 1-1
-			globalPosition = (31034.35, 1349.916, 70960.64)
+			globalPosition = (31034.349999999999, 1349.9159999999999, 70960.639999999999)
 			unitInstanceID = 3
 			unitID = MultiplayerSpawn
 			rotation = (0, 0, 0)
-			lastValidPlacement = (31034.35, 1349.916, 70960.64)
+			lastValidPlacement = (31034.349999999999, 1349.9159999999999, 70960.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -250,7 +250,7 @@ CustomScenario
 			{
 				vehicle = F-45A
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Allied:Golf
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
@@ -266,7 +266,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31034.35, 1349.916, 70960.64)
+				globalPos = (31034.349999999999, 1349.9159999999999, 70960.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -276,7 +276,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1
 					unitGroup = Allied:Golf
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -293,7 +293,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31034.35, 1349.916, 70960.64)
+				globalPos = (31034.349999999999, 1349.9159999999999, 70960.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -303,7 +303,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1
 					unitGroup = Allied:Golf
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -323,11 +323,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Echo 1-1
-			globalPosition = (31034.35, 1349.916, 70927.64)
+			globalPosition = (31034.349999999999, 1349.9159999999999, 70927.639999999999)
 			unitInstanceID = 4
 			unitID = MultiplayerSpawn
 			rotation = (0, 0, 0)
-			lastValidPlacement = (31034.35, 1349.916, 70927.64)
+			lastValidPlacement = (31034.349999999999, 1349.9159999999999, 70927.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -335,7 +335,7 @@ CustomScenario
 			{
 				vehicle = EF-24G
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Allied:Echo
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
@@ -352,7 +352,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31034.35, 1349.916, 70927.64)
+				globalPos = (31034.349999999999, 1349.9159999999999, 70927.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -362,7 +362,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 
 					unitGroup = Allied:Echo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -379,7 +379,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (31034.35, 1349.916, 70927.64)
+				globalPos = (31034.349999999999, 1349.9159999999999, 70927.639999999999)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -389,7 +389,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1
 					unitGroup = Allied:Echo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -409,11 +409,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-4
-			globalPosition = (28440.96, 714.5293, 109349.086)
+			globalPosition = (28440.959999999999, 714.52930000000003, 109349.086)
 			unitInstanceID = 5
 			unitID = MultiplayerSpawn
 			rotation = (0, 54.08461, 0)
-			lastValidPlacement = (28440.96, 714.5293, 109349.086)
+			lastValidPlacement = (28440.959999999999, 714.52930000000003, 109349.086)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -421,7 +421,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -437,7 +437,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28440.96, 714.5293, 109349.086)
+				globalPos = (28440.959999999999, 714.52930000000003, 109349.086)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -447,7 +447,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -467,11 +467,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-5
-			globalPosition = (28409.932, 714.5293, 109347.6)
+			globalPosition = (28409.932000000001, 714.52930000000003, 109347.60000000001)
 			unitInstanceID = 6
 			unitID = MultiplayerSpawn
 			rotation = (0, 54.08461, 0)
-			lastValidPlacement = (28409.932, 714.5293, 109347.6)
+			lastValidPlacement = (28409.932000000001, 714.52930000000003, 109347.60000000001)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -479,7 +479,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -495,7 +495,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28409.932, 714.5293, 109347.6)
+				globalPos = (28409.932000000001, 714.52930000000003, 109347.60000000001)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -505,7 +505,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -525,11 +525,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-6
-			globalPosition = (28429.29, 714.5293, 109320.875)
+			globalPosition = (28429.290000000001, 714.52930000000003, 109320.875)
 			unitInstanceID = 7
 			unitID = MultiplayerSpawn
 			rotation = (0, 54.08461, 0)
-			lastValidPlacement = (28429.29, 714.5293, 109320.875)
+			lastValidPlacement = (28429.290000000001, 714.52930000000003, 109320.875)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -537,7 +537,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Allied:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -553,7 +553,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28429.29, 714.5293, 109320.875)
+				globalPos = (28429.290000000001, 714.52930000000003, 109320.875)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -563,7 +563,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 
 					unitGroup = Allied:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -583,11 +583,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Golf 1-2
-			globalPosition = (28399.656, 714.5293, 109319.17)
+			globalPosition = (28399.655999999999, 714.52930000000003, 109319.17)
 			unitInstanceID = 8
 			unitID = MultiplayerSpawn
 			rotation = (0, 54.08461, 0)
-			lastValidPlacement = (28399.656, 714.5293, 109319.17)
+			lastValidPlacement = (28399.655999999999, 714.52930000000003, 109319.17)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -595,7 +595,7 @@ CustomScenario
 			{
 				vehicle = F-45A
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Allied:Golf
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
@@ -611,7 +611,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28399.656, 714.5293, 109319.17)
+				globalPos = (28399.655999999999, 714.52930000000003, 109319.17)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -621,7 +621,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 
 					unitGroup = Allied:Golf
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -638,7 +638,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28399.656, 714.5293, 109319.17)
+				globalPos = (28399.655999999999, 714.52930000000003, 109319.17)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -648,7 +648,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2
 					unitGroup = Allied:Golf
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -668,11 +668,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Echo 1-2
-			globalPosition = (28372.93, 714.5293, 109299.81)
+			globalPosition = (28372.93, 714.52930000000003, 109299.81)
 			unitInstanceID = 9
 			unitID = MultiplayerSpawn
 			rotation = (0, 54.08461, 0)
-			lastValidPlacement = (28372.93, 714.5293, 109299.81)
+			lastValidPlacement = (28372.93, 714.52930000000003, 109299.81)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -680,7 +680,7 @@ CustomScenario
 			{
 				vehicle = EF-24G
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Allied:Echo
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
@@ -697,7 +697,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28372.93, 714.5293, 109299.81)
+				globalPos = (28372.93, 714.52930000000003, 109299.81)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -707,7 +707,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 
 					unitGroup = Allied:Echo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -724,7 +724,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (28372.93, 714.5293, 109299.81)
+				globalPos = (28372.93, 714.52930000000003, 109299.81)
 				rotation = (0, 54.08461, 0)
 				weight = 100
 				placementMode = Ground
@@ -734,7 +734,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2
 					unitGroup = Allied:Echo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -754,11 +754,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-1
-			globalPosition = (169415.42, 1233.373, 116030.61)
+			globalPosition = (169415.42000000001, 1233.373, 116030.61)
 			unitInstanceID = 10
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 234.08461, 0)
-			lastValidPlacement = (169415.42, 1233.373, 116030.61)
+			rotation = (0, 234.0846, 0)
+			lastValidPlacement = (169415.42000000001, 1233.373, 116030.61)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -766,7 +766,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -782,8 +782,8 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (169415.42, 1233.373, 116030.61)
-				rotation = (0, 234.08461, 0)
+				globalPos = (169415.42000000001, 1233.373, 116030.61)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -792,7 +792,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 Airbase 1
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -815,7 +815,7 @@ CustomScenario
 			globalPosition = (169424.75, 1233.373, 116062.06)
 			unitInstanceID = 11
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 234.08461, 0)
+			rotation = (0, 234.0846, 0)
 			lastValidPlacement = (169424.75, 1233.373, 116062.06)
 			editorPlacementMode = Ground
 			onCarrier = False
@@ -824,7 +824,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -841,7 +841,7 @@ CustomScenario
 			altSpawn
 			{
 				globalPos = (169424.75, 1233.373, 116062.06)
-				rotation = (0, 234.08461, 0)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -850,7 +850,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 Airbase 1
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -873,7 +873,7 @@ CustomScenario
 			globalPosition = (169448.22, 1233.373, 116029.664)
 			unitInstanceID = 12
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 234.08461, 0)
+			rotation = (0, 234.0846, 0)
 			lastValidPlacement = (169448.22, 1233.373, 116029.664)
 			editorPlacementMode = Ground
 			onCarrier = False
@@ -882,7 +882,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -899,7 +899,7 @@ CustomScenario
 			altSpawn
 			{
 				globalPos = (169448.22, 1233.373, 116029.664)
-				rotation = (0, 234.08461, 0)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -908,7 +908,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 Airbase 1
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -928,11 +928,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Golf 1-1
-			globalPosition = (169456.73, 1233.373, 116060.52)
+			globalPosition = (169456.73000000001, 1233.373, 116060.52)
 			unitInstanceID = 13
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 234.08461, 0)
-			lastValidPlacement = (169456.73, 1233.373, 116060.52)
+			rotation = (0, 234.0846, 0)
+			lastValidPlacement = (169456.73000000001, 1233.373, 116060.52)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -940,7 +940,7 @@ CustomScenario
 			{
 				vehicle = F-45A
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Enemy:Golf
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
@@ -956,8 +956,8 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (169456.73, 1233.373, 116060.52)
-				rotation = (0, 234.08461, 0)
+				globalPos = (169456.73000000001, 1233.373, 116060.52)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -966,7 +966,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1
 					unitGroup = Enemy:Golf
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -983,8 +983,8 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (169456.73, 1233.373, 116060.52)
-				rotation = (0, 234.08461, 0)
+				globalPos = (169456.73000000001, 1233.373, 116060.52)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -993,7 +993,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1
 					unitGroup = Enemy:Golf
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1013,11 +1013,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Echo 1-1
-			globalPosition = (169483.45, 1233.373, 116079.88)
+			globalPosition = (169483.45000000001, 1233.373, 116079.88)
 			unitInstanceID = 14
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 234.08461, 0)
-			lastValidPlacement = (169483.45, 1233.373, 116079.88)
+			rotation = (0, 234.0846, 0)
+			lastValidPlacement = (169483.45000000001, 1233.373, 116079.88)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1025,7 +1025,7 @@ CustomScenario
 			{
 				vehicle = EF-24G
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 1 
 				unitGroup = Enemy:Echo
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
@@ -1042,8 +1042,8 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (169483.45, 1233.373, 116079.88)
-				rotation = (0, 234.08461, 0)
+				globalPos = (169483.45000000001, 1233.373, 116079.88)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -1052,7 +1052,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 Airbase 1
 					unitGroup = Enemy:Echo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1069,8 +1069,8 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (169483.45, 1233.373, 116079.88)
-				rotation = (0, 234.08461, 0)
+				globalPos = (169483.45000000001, 1233.373, 116079.88)
+				rotation = (0, 234.0846, 0)
 				weight = 100
 				placementMode = Ground
 				onCarrier = False
@@ -1079,7 +1079,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 1 Airbase 1
 					unitGroup = Enemy:Echo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1099,11 +1099,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-4
-			globalPosition = (167002.31, 2393.5742, 75196.35)
+			globalPosition = (167002.31, 2393.5742, 75196.350000000006)
 			unitInstanceID = 15
 			unitID = MultiplayerSpawnEnemy
 			rotation = (0, 0, 0)
-			lastValidPlacement = (167002.31, 2393.5742, 75196.35)
+			lastValidPlacement = (167002.31, 2393.5742, 75196.350000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1111,7 +1111,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1127,7 +1127,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167002.31, 2393.5742, 75196.35)
+				globalPos = (167002.31, 2393.5742, 75196.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1137,7 +1137,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1157,11 +1157,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-5
-			globalPosition = (166985.31, 2393.5742, 75170.35)
+			globalPosition = (166985.31, 2393.5742, 75170.350000000006)
 			unitInstanceID = 16
 			unitID = MultiplayerSpawnEnemy
 			rotation = (0, 0, 0)
-			lastValidPlacement = (166985.31, 2393.5742, 75170.35)
+			lastValidPlacement = (166985.31, 2393.5742, 75170.350000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1169,7 +1169,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1185,7 +1185,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (166985.31, 2393.5742, 75170.35)
+				globalPos = (166985.31, 2393.5742, 75170.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1195,7 +1195,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1215,11 +1215,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Foxtrot 1-6
-			globalPosition = (167018.31, 2393.5742, 75170.35)
+			globalPosition = (167018.31, 2393.5742, 75170.350000000006)
 			unitInstanceID = 17
 			unitID = MultiplayerSpawnEnemy
 			rotation = (0, 0, 0)
-			lastValidPlacement = (167018.31, 2393.5742, 75170.35)
+			lastValidPlacement = (167018.31, 2393.5742, 75170.350000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1227,7 +1227,7 @@ CustomScenario
 			{
 				vehicle = F/A-26B
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Enemy:Foxtrot
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1243,7 +1243,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167018.31, 2393.5742, 75170.35)
+				globalPos = (167018.31, 2393.5742, 75170.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1253,7 +1253,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Foxtrot
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1273,11 +1273,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Golf 1-2
-			globalPosition = (167002.31, 2393.5742, 75145.35)
+			globalPosition = (167002.31, 2393.5742, 75145.350000000006)
 			unitInstanceID = 18
 			unitID = MultiplayerSpawnEnemy
 			rotation = (0, 0, 0)
-			lastValidPlacement = (167002.31, 2393.5742, 75145.35)
+			lastValidPlacement = (167002.31, 2393.5742, 75145.350000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1285,7 +1285,7 @@ CustomScenario
 			{
 				vehicle = F-45A
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Enemy:Golf
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
@@ -1301,7 +1301,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167002.31, 2393.5742, 75145.35)
+				globalPos = (167002.31, 2393.5742, 75145.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1311,7 +1311,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Golf
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1328,7 +1328,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167002.31, 2393.5742, 75145.35)
+				globalPos = (167002.31, 2393.5742, 75145.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1338,7 +1338,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Golf
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1358,11 +1358,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Echo 1-2
-			globalPosition = (167002.31, 2393.5742, 75112.35)
+			globalPosition = (167002.31, 2393.5742, 75112.350000000006)
 			unitInstanceID = 19
 			unitID = MultiplayerSpawnEnemy
 			rotation = (0, 0, 0)
-			lastValidPlacement = (167002.31, 2393.5742, 75112.35)
+			lastValidPlacement = (167002.31, 2393.5742, 75112.350000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -1370,7 +1370,7 @@ CustomScenario
 			{
 				vehicle = EF-24G
 				selectableAltSpawn = True
-				slotLabel = 
+				slotLabel = Airbase 2 
 				unitGroup = Enemy:Echo
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
@@ -1387,7 +1387,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167002.31, 2393.5742, 75112.35)
+				globalPos = (167002.31, 2393.5742, 75112.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1397,7 +1397,7 @@ CustomScenario
 				{
 					vehicle = F/A-26B
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Echo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
@@ -1414,7 +1414,7 @@ CustomScenario
 			}
 			altSpawn
 			{
-				globalPos = (167002.31, 2393.5742, 75112.35)
+				globalPos = (167002.31, 2393.5742, 75112.350000000006)
 				rotation = (0, 0, 0)
 				weight = 100
 				placementMode = Ground
@@ -1424,7 +1424,7 @@ CustomScenario
 				{
 					vehicle = T-55
 					selectableAltSpawn = True
-					slotLabel = 
+					slotLabel = Airbase 2 Airbase 2
 					unitGroup = Enemy:Echo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
@@ -1569,13 +1569,13 @@ CustomScenario
 		{
 			id = 0
 			name = Bullseye
-			globalPoint = (99723.89, 1289.6445, 93679.875)
+			globalPoint = (99723.889999999999, 1289.6445000000001, 93679.875)
 		}
 		WAYPOINT
 		{
 			id = 1
 			name = Team A RTB
-			globalPoint = (31034.35, 1349.916, 71646.64)
+			globalPoint = (31034.349999999999, 1349.9159999999999, 71646.639999999999)
 		}
 		WAYPOINT
 		{
@@ -1587,13 +1587,13 @@ CustomScenario
 		{
 			id = 3
 			name = airbase 6
-			globalPoint = (30654.35, 1347.916, 71779.64)
+			globalPoint = (30654.349999999999, 1347.9159999999999, 71779.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 4
 			name = airbase 5
-			globalPoint = (28840.047, 712.5293, 110107.34)
+			globalPoint = (28840.046999999999, 712.52930000000003, 110107.34)
 		}
 		WAYPOINT
 		{
@@ -1605,7 +1605,7 @@ CustomScenario
 		{
 			id = 6
 			name = airbase 7
-			globalPoint = (166622.31, 2391.5742, 75964.35)
+			globalPoint = (166622.31, 2391.5742, 75964.350000000006)
 		}
 	}
 	UNITGROUPS
@@ -1985,21 +1985,21 @@ CustomScenario
 		{
 			prefabID = Random Scructures.ArenaRingEP2_packed
 			id = 0
-			globalPos = (99723.89, 7315.2, 93679.875)
+			globalPos = (99723.889999999999, 7315.1999999999998, 93679.875)
 			rotation = (0, 0, 0)
 		}
 		StaticObject
 		{
 			prefabID = Random Scructures.ArenaStadumEP2_packed
 			id = 1
-			globalPos = (99723.89, 3657.6, 93679.875)
-			rotation = (0, 0, 0)
+			globalPos = (99732.3125, 2778.1826171875, 94342.475280761719)
+			rotation = (0, 5.812417, 0)
 		}
 		StaticObject
 		{
 			prefabID = 3800594454.MAXWELL_KILLABLE_packed
 			id = 2
-			globalPos = (99723.89, 7315.2, 93679.875)
+			globalPos = (99723.889999999999, 7315.1999999999998, 93679.875)
 			rotation = (0, 0, 0)
 		}
 	}
@@ -19966,6 +19966,10 @@ CustomScenario
 							}
 						}
 					}
+					ELSE_ACTIONS
+					{
+						eventName = 
+					}
 				}
 				ELSE_IF
 				{
@@ -20027,6 +20031,10 @@ CustomScenario
 								}
 							}
 						}
+					}
+					ELSE_ACTIONS
+					{
+						eventName = 
 					}
 				}
 				ELSE_ACTIONS
@@ -28512,34 +28520,50 @@ CustomScenario
 		gv
 		{
 			data = 0;teamAWins;;0;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 1;teamBWins;;0;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 2;ties;;0;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 3;targetWins;;3;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 4;sortieAbortable;;1;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 5;teamAKotHTime;;0;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 6;teamBKotHTime;;0;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 		gv
 		{
 			data = 7;targetKotHTime;;120;
+			ListOrderIndex = 0
+			ListFolderName = 
 		}
 	}
 	Briefing
@@ -28567,3 +28591,4 @@ CustomScenario
 	{
 	}
 }
+

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PublishedFileId>3790538071</PublishedFileId>
-  <Name>551 Season 2 Official v1.0.0</Name>
-  <Description>Ringtail's 551 Official Season 2 map pool - Release 1.0.0</Description>
+  <Name>551 Season 2 TESTING</Name>
+  <Description>Ringtail's 551 Official Season 2 map pool</Description>
   <IconFileName>image.png</IconFileName>
   <Tags>
     <string>Multiplayer Campaigns</string>
