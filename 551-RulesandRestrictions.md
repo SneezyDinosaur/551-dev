@@ -1,6 +1,6 @@
 # Team Composition and Loadout Restrictions
 
-  Teams are limited to a maximum of 6 players in any given match. Any extra players, or subs, will have to sit out.
+  Teams are limited to a maximum of 9 players per roster, and 6 players in any given match. Any extra players, or subs, will have to sit out.
 
 ## Fighters (F/A-26B & T-55)
 
@@ -16,14 +16,14 @@
   - External pylons limited to 9+ or Tanks
   
 ## Jamcat (EF-24G)
-- no AIRS-T
+- No AIRS-T
 - 2x 120-D maximum, limited to the inner glove wing pylons (Pylons X and Y)
 
 # Match Setup Information
 
 ## Map Pool
   - Alps
-  - Cauldera
+  - Caldera
   - Mexico
   - Peak
   - Pillars
@@ -93,6 +93,6 @@ Violations:
   - Multiple no-reports of match results = review by Tournament Organizer for potential disqualification from Episode and forfeit of match if applicable.
 
 ### 5.1: - Exceptions to Score Reporting Deadlines
-  - School breaks recognized by Tournament Organizer may delay deadlines and play weeks.
+  - School breaks/holidays recognized by Tournament Organizer may delay deadlines and play weeks.
   - Extensions may be granted case-by-case if Tournament Organizer is notified in advance.
 

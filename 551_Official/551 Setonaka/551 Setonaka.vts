@@ -1,4 +1,4 @@
-﻿CustomScenario
+CustomScenario
 {
 	gameVersion = 1.13.4f1
 	campaignID = 551_Official
@@ -261,7 +261,7 @@
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -338,7 +338,7 @@
 				slotLabel = Airbase 1
 				unitGroup = Allied:Echo
 				startMode = FlightReady
-				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
+				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = True
@@ -606,7 +606,7 @@
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -951,7 +951,7 @@
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -1296,7 +1296,7 @@
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn

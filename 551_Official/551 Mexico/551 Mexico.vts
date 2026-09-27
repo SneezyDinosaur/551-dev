@@ -2,7 +2,7 @@ CustomScenario
 {
 	gameVersion = 1.13.4f1
 	campaignID = 551_Official
-	campaignOrderIdx = 2
+	campaignOrderIdx = 3
 	scenarioName = 551 Mexico
 	scenarioID = 551 Mexico
 	scenarioDescription = Ringtail's 5-5-1 with King of the Hill Stalemate resolution. Control point radius is 10 NM (18.52 km) and will activate after 10 minutes
@@ -261,7 +261,7 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -606,7 +606,7 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -951,7 +951,7 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -1296,7 +1296,7 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_harmSDx2;f45_amraamInternal;f45_sidewinderx2;;;;;;;|9;8;10;7;6;5;3;1;0;4;
+				forcedEquipsList = f45_gun;f45_sidewinderx2;f45_amraamInternal;f45_amraamInternal;f45_sidewinderx2;free;free;free;free;free;free;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
