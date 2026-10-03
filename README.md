@@ -3,6 +3,9 @@
 This repository acts as the shared resource for managing the maps, campaigns, rules, and other assets required to run 551.
 
 ## Version History
+- **v1.2.0**
+  - Updated map previews with annotated versions
+  
 - **v1.1.0** - Carriers & Slot Labels
   - Updated Slot Labels for Airbase 1 and Airbase 2
   - Adjusted CSO Arena height on all maps
