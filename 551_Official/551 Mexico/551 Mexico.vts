@@ -63,7 +63,7 @@ CustomScenario
 	{
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-1
+			unitName = Alpha 1-1
 			globalPosition = (159485.62, 741.75194999999997, 73676.619999999995)
 			unitInstanceID = 0
 			unitID = MultiplayerSpawn
@@ -77,7 +77,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -103,7 +103,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Foxtrot
+					unitGroup = Allied:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -121,7 +121,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-2
+			unitName = Alpha 1-2
 			globalPosition = (159485.89000000001, 741.75194999999997, 73645.554999999993)
 			unitInstanceID = 1
 			unitID = MultiplayerSpawn
@@ -135,7 +135,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -161,7 +161,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Foxtrot
+					unitGroup = Allied:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -179,7 +179,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-3
+			unitName = Alpha 1-3
 			globalPosition = (159458.10999999999, 741.75194999999997, 73663.380000000005)
 			unitInstanceID = 2
 			unitID = MultiplayerSpawn
@@ -193,7 +193,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -219,7 +219,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Foxtrot
+					unitGroup = Allied:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -237,7 +237,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-1
+			unitName = Bravo 1-1
 			globalPosition = (159458.07999999999, 741.75194999999997, 73633.699999999997)
 			unitInstanceID = 3
 			unitID = MultiplayerSpawn
@@ -251,7 +251,7 @@ CustomScenario
 				vehicle = F-45A
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Golf
+				unitGroup = Allied:Bravo
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
 				initialSpeed = 0
@@ -277,7 +277,7 @@ CustomScenario
 					vehicle = F/A-26B
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Golf
+					unitGroup = Allied:Bravo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 					initialSpeed = 0
@@ -304,7 +304,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Golf
+					unitGroup = Allied:Bravo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -322,7 +322,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-1
+			unitName = Charlie 1-1
 			globalPosition = (159440.25, 741.75194999999997, 73605.929999999993)
 			unitInstanceID = 4
 			unitID = MultiplayerSpawn
@@ -336,7 +336,7 @@ CustomScenario
 				vehicle = EF-24G
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Echo
+				unitGroup = Allied:Charlie
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
@@ -363,7 +363,7 @@ CustomScenario
 					vehicle = F/A-26B
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Echo
+					unitGroup = Allied:Charlie
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 					initialSpeed = 0
@@ -390,7 +390,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Allied:Echo
+					unitGroup = Allied:Charlie
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -408,7 +408,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-4
+			unitName = Foxtrot 1-1
 			globalPosition = (161847.23000000001, 1478.1352999999999, 120999.28999999999)
 			unitInstanceID = 5
 			unitID = MultiplayerSpawn
@@ -466,7 +466,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-5
+			unitName = Foxtrot 1-2
 			globalPosition = (161840.84, 1478.1352999999999, 121031.46000000001)
 			unitInstanceID = 6
 			unitID = MultiplayerSpawn
@@ -524,7 +524,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-6
+			unitName = Foxtrot 1-3
 			globalPosition = (161876.70000000001, 1478.1352999999999, 121013.73)
 			unitInstanceID = 7
 			unitID = MultiplayerSpawn
@@ -582,7 +582,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-2
+			unitName = Golf 1-1
 			globalPosition = (161869.85999999999, 1478.1352999999999, 121045)
 			unitInstanceID = 8
 			unitID = MultiplayerSpawn
@@ -667,7 +667,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-2
+			unitName = Echo 1-1
 			globalPosition = (161884.48000000001, 1478.1352999999999, 121074.586)
 			unitInstanceID = 9
 			unitID = MultiplayerSpawn
@@ -753,7 +753,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-1
+			unitName = Alpha 1-1
 			globalPosition = (30459.305, 742.27829999999994, 189378.26999999999)
 			unitInstanceID = 10
 			unitID = MultiplayerSpawnEnemy
@@ -767,7 +767,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -793,7 +793,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Foxtrot
+					unitGroup = Enemy:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -811,7 +811,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-2
+			unitName = Alpha 1-2
 			globalPosition = (30448.442999999999, 742.27829999999994, 189409.22)
 			unitInstanceID = 11
 			unitID = MultiplayerSpawnEnemy
@@ -825,7 +825,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -851,7 +851,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Foxtrot
+					unitGroup = Enemy:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -869,7 +869,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-3
+			unitName = Alpha 1-3
 			globalPosition = (30486.436000000002, 742.27829999999994, 189396.70000000001)
 			unitInstanceID = 12
 			unitID = MultiplayerSpawnEnemy
@@ -883,7 +883,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -909,7 +909,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Foxtrot
+					unitGroup = Enemy:Alpha
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -927,7 +927,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-1
+			unitName = Bravo 1-1
 			globalPosition = (30475.261999999999, 742.27829999999994, 189426.70000000001)
 			unitInstanceID = 13
 			unitID = MultiplayerSpawnEnemy
@@ -941,7 +941,7 @@ CustomScenario
 				vehicle = F-45A
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Golf
+				unitGroup = Enemy:Bravo
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
 				initialSpeed = 0
@@ -967,7 +967,7 @@ CustomScenario
 					vehicle = F/A-26B
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Golf
+					unitGroup = Enemy:Bravo
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 					initialSpeed = 0
@@ -994,7 +994,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Golf
+					unitGroup = Enemy:Bravo
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -1012,7 +1012,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-1
+			unitName = Charlie 1-1
 			globalPosition = (30485.585999999999, 742.27829999999994, 189458.04999999999)
 			unitInstanceID = 14
 			unitID = MultiplayerSpawnEnemy
@@ -1026,7 +1026,7 @@ CustomScenario
 				vehicle = EF-24G
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Echo
+				unitGroup = Enemy:Charlie
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
@@ -1053,7 +1053,7 @@ CustomScenario
 					vehicle = F/A-26B
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Echo
+					unitGroup = Enemy:Charlie
 					startMode = FlightReady
 					equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 					initialSpeed = 0
@@ -1080,7 +1080,7 @@ CustomScenario
 					vehicle = T-55
 					selectableAltSpawn = True
 					slotLabel = Airbase 1
-					unitGroup = Enemy:Echo
+					unitGroup = Enemy:Charlie
 					startMode = FlightReady
 					equipment = t55_mk82;t55_mk82x2;t55_mk82x3;t55_mk82HDx1;t55_mk82HDx2;t55_mk82HDx3;t55_mk83x1;t55_cbu97x1;t55_gbu12x1;t55_gbu12x2;t55_gbu12x3;t55_gbu38x1;t55_gbu38x2;t55_gbu38x3;t55_gbu39x4u;t55_maverickx1;t55_maverickx3;t55_cagm-6;t55_h70-x7ld;t55_h70-x14ld;t55_apkws-x7;t55_agm161;
 					initialSpeed = 0
@@ -1098,7 +1098,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-4
+			unitName = Foxtrot 1-1
 			globalPosition = (22111.127, 160.80565999999999, 134022.42000000001)
 			unitInstanceID = 15
 			unitID = MultiplayerSpawnEnemy
@@ -1156,7 +1156,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-5
+			unitName = Foxtrot 1-2
 			globalPosition = (22086.768, 160.80565999999999, 134041.70000000001)
 			unitInstanceID = 16
 			unitID = MultiplayerSpawnEnemy
@@ -1214,7 +1214,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-6
+			unitName = Foxtrot 1-3
 			globalPosition = (22118.067999999999, 160.80565999999999, 134052.16)
 			unitInstanceID = 17
 			unitID = MultiplayerSpawnEnemy
@@ -1272,7 +1272,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-2
+			unitName = Golf 1-1
 			globalPosition = (22094.974999999999, 160.80565999999999, 134070.79999999999)
 			unitInstanceID = 18
 			unitID = MultiplayerSpawnEnemy
@@ -1357,7 +1357,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-2
+			unitName = Echo 1-1
 			globalPosition = (22084.523000000001, 160.80565999999999, 134102.10000000001)
 			unitInstanceID = 19
 			unitID = MultiplayerSpawnEnemy
@@ -1612,10 +1612,13 @@ CustomScenario
 	{
 		ALLIED
 		{
-			Echo = 2;4;9;
-			Foxtrot = 2;0;1;2;5;6;7;
-			Golf = 2;3;8;
+			Echo = 2;9;
+			Foxtrot = 2;5;6;7;
+			Golf = 2;8;
 			Sierra = 2;20;21;
+			Alpha = 2;0;1;2;
+			Bravo = 2;3;
+			Charlie = 2;4;
 			Echo_SETTINGS
 			{
 				syncAltSpawns = False
@@ -1629,16 +1632,31 @@ CustomScenario
 				syncAltSpawns = False
 			}
 			Sierra_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Alpha_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Bravo_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Charlie_SETTINGS
 			{
 				syncAltSpawns = False
 			}
 		}
 		ENEMY
 		{
-			Echo = 2;14;19;
-			Foxtrot = 2;10;11;12;15;16;17;
-			Golf = 2;13;18;
+			Echo = 2;19;
+			Foxtrot = 2;15;16;17;
+			Golf = 2;18;
 			Sierra = 2;22;23;
+			Alpha = 2;10;11;12;
+			Bravo = 2;13;
+			Charlie = 2;14;
 			Echo_SETTINGS
 			{
 				syncAltSpawns = False
@@ -1652,6 +1670,18 @@ CustomScenario
 				syncAltSpawns = False
 			}
 			Sierra_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Alpha_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Bravo_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Charlie_SETTINGS
 			{
 				syncAltSpawns = False
 			}

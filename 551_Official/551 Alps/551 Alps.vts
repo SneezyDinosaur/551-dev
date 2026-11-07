@@ -63,7 +63,7 @@ CustomScenario
 	{
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-1
+			unitName = Alpha 1-1
 			globalPosition = (44573.220000000001, 4414.0986000000003, 15914.709999999999)
 			unitInstanceID = 0
 			unitID = MultiplayerSpawn
@@ -77,7 +77,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -121,7 +121,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-2
+			unitName = Alpha 1-2
 			globalPosition = (44542.332000000002, 4414.0986000000003, 15918.003000000001)
 			unitInstanceID = 1
 			unitID = MultiplayerSpawn
@@ -135,7 +135,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -179,7 +179,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-3
+			unitName = Alpha 1-3
 			globalPosition = (44557.360000000001, 4414.0986000000003, 15888.624)
 			unitInstanceID = 2
 			unitID = MultiplayerSpawn
@@ -193,7 +193,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Foxtrot
+				unitGroup = Allied:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -237,7 +237,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-1
+			unitName = Bravo 1-1
 			globalPosition = (44527.815999999999, 4414.0986000000003, 15891.482)
 			unitInstanceID = 3
 			unitID = MultiplayerSpawn
@@ -251,7 +251,7 @@ CustomScenario
 				vehicle = F-45A
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Golf
+				unitGroup = Allied:Bravo
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
 				initialSpeed = 0
@@ -322,7 +322,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-1
+			unitName = Charlie 1-1
 			globalPosition = (44498.438000000002, 4414.0986000000003, 15876.451999999999)
 			unitInstanceID = 4
 			unitID = MultiplayerSpawn
@@ -336,7 +336,7 @@ CustomScenario
 				vehicle = EF-24G
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Allied:Echo
+				unitGroup = Allied:Charlie
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
@@ -408,7 +408,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-4
+			unitName = Foxtrot 1-1
 			globalPosition = (8635.6875, 82.837890000000002, 88216.550000000003)
 			unitInstanceID = 5
 			unitID = MultiplayerSpawn
@@ -466,7 +466,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-5
+			unitName = Foxtrot 1-2
 			globalPosition = (8612.0509999999995, 82.837890000000002, 88196.389999999999)
 			unitInstanceID = 6
 			unitID = MultiplayerSpawn
@@ -524,7 +524,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-6
+			unitName = Foxtrot 1-3
 			globalPosition = (8643.7139999999999, 82.837890000000002, 88187.089999999997)
 			unitInstanceID = 7
 			unitID = MultiplayerSpawn
@@ -582,7 +582,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-2
+			unitName = Golf 1-1
 			globalPosition = (8621.3169999999991, 82.837890000000002, 88167.610000000001)
 			unitInstanceID = 8
 			unitID = MultiplayerSpawn
@@ -667,7 +667,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-2
+			unitName = Echo 1-1
 			globalPosition = (8612.0190000000002, 82.837890000000002, 88135.945000000007)
 			unitInstanceID = 9
 			unitID = MultiplayerSpawn
@@ -753,7 +753,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-1
+			unitName = Alpha 1-1
 			globalPosition = (145259.16, 345.43945000000002, 137288.82999999999)
 			unitInstanceID = 10
 			unitID = MultiplayerSpawnEnemy
@@ -767,7 +767,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -811,7 +811,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-2
+			unitName = Alpha 1-2
 			globalPosition = (145283.04999999999, 345.43945000000002, 137308.67000000001)
 			unitInstanceID = 11
 			unitID = MultiplayerSpawnEnemy
@@ -825,7 +825,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -869,7 +869,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-3
+			unitName = Alpha 1-3
 			globalPosition = (145286.79999999999, 345.43945000000002, 137275.89000000001)
 			unitInstanceID = 12
 			unitID = MultiplayerSpawnEnemy
@@ -883,7 +883,7 @@ CustomScenario
 				vehicle = F/A-26B
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Foxtrot
+				unitGroup = Enemy:Alpha
 				startMode = FlightReady
 				equipment = fa26_iris-t-x2;fa26_iris-t-x3;af_mk82;fa26_mk82x2;fa26_mk82x3;fa26_mk82HDx1;fa26_mk82HDx2;fa26_mk82HDx3;fa26_mk83x1;fa26_cbu97x1;h70-x7ld;h70-x7ld-under;h70-x14ld;h70-x14ld-under;fa26_cagm-6;fa26_gbu38x1;fa26_gbu38x2;fa26_gbu38x3;fa26_gbu39x4uFront;fa26_gbu39x4uRear;fa26_maverickx1;fa26_maverickx3;fa26_agm89x1;fa26_gbu12x1;fa26_gbu12x2;fa26_gbu12x3;
 				initialSpeed = 0
@@ -927,7 +927,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-1
+			unitName = Bravo 1-1
 			globalPosition = (145309.81, 345.43945000000002, 137294.62)
 			unitInstanceID = 13
 			unitID = MultiplayerSpawnEnemy
@@ -941,7 +941,7 @@ CustomScenario
 				vehicle = F-45A
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Golf
+				unitGroup = Enemy:Bravo
 				startMode = FlightReady
 				equipment = f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;
 				initialSpeed = 0
@@ -1012,7 +1012,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-1
+			unitName = Charlie 1-1
 			globalPosition = (145342.60999999999, 345.43945000000002, 137298.38)
 			unitInstanceID = 14
 			unitID = MultiplayerSpawnEnemy
@@ -1026,7 +1026,7 @@ CustomScenario
 				vehicle = EF-24G
 				selectableAltSpawn = True
 				slotLabel = Airbase 1
-				unitGroup = Enemy:Echo
+				unitGroup = Enemy:Charlie
 				startMode = FlightReady
 				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
@@ -1098,7 +1098,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-4
+			unitName = Foxtrot 1-1
 			globalPosition = (171474.39000000001, 3059.5830000000001, 71335.169999999998)
 			unitInstanceID = 15
 			unitID = MultiplayerSpawnEnemy
@@ -1156,7 +1156,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-5
+			unitName = Foxtrot 1-2
 			globalPosition = (171500.51999999999, 3059.5830000000001, 71355)
 			unitInstanceID = 16
 			unitID = MultiplayerSpawnEnemy
@@ -1214,7 +1214,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Foxtrot 1-6
+			unitName = Foxtrot 1-3
 			globalPosition = (171500.25, 3059.5830000000001, 71315)
 			unitInstanceID = 17
 			unitID = MultiplayerSpawnEnemy
@@ -1272,7 +1272,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Golf 1-2
+			unitName = Golf 1-1
 			globalPosition = (171525.39000000001, 3059.5830000000001, 71334.830000000002)
 			unitInstanceID = 18
 			unitID = MultiplayerSpawnEnemy
@@ -1357,7 +1357,7 @@ CustomScenario
 		}
 		UnitSpawner
 		{
-			unitName = Echo 1-2
+			unitName = Echo 1-1
 			globalPosition = (171558.39000000001, 3059.5830000000001, 71334.610000000001)
 			unitInstanceID = 19
 			unitID = MultiplayerSpawnEnemy
@@ -1612,10 +1612,13 @@ CustomScenario
 	{
 		ALLIED
 		{
-			Echo = 2;4;9;
-			Foxtrot = 2;0;1;2;5;6;7;
-			Golf = 2;3;8;
+			Echo = 2;9;
+			Foxtrot = 2;5;6;7;
+			Golf = 2;8;
 			Sierra = 2;20;21;
+			Alpha = 2;0;1;2;
+			Bravo = 2;3;
+			Charlie = 2;4;
 			Echo_SETTINGS
 			{
 				syncAltSpawns = False
@@ -1629,16 +1632,31 @@ CustomScenario
 				syncAltSpawns = False
 			}
 			Sierra_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Alpha_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Bravo_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Charlie_SETTINGS
 			{
 				syncAltSpawns = False
 			}
 		}
 		ENEMY
 		{
-			Echo = 2;14;19;
-			Foxtrot = 2;10;11;12;15;16;17;
-			Golf = 2;13;18;
+			Echo = 2;19;
+			Foxtrot = 2;15;16;17;
+			Golf = 2;18;
 			Sierra = 2;22;23;
+			Alpha = 2;10;11;12;
+			Bravo = 2;13;
+			Charlie = 2;14;
 			Echo_SETTINGS
 			{
 				syncAltSpawns = False
@@ -1652,6 +1670,18 @@ CustomScenario
 				syncAltSpawns = False
 			}
 			Sierra_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Alpha_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Bravo_SETTINGS
+			{
+				syncAltSpawns = False
+			}
+			Charlie_SETTINGS
 			{
 				syncAltSpawns = False
 			}
@@ -20539,7 +20569,7 @@ CustomScenario
 			sequenceName = [0] vs [1]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 60
+			ListOrderIndex = 0
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20574,7 +20604,7 @@ CustomScenario
 			sequenceName = [0] vs [2]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 70
+			ListOrderIndex = 1
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20609,7 +20639,7 @@ CustomScenario
 			sequenceName = [0] vs [3]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 80
+			ListOrderIndex = 2
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20644,7 +20674,7 @@ CustomScenario
 			sequenceName = [0] vs [4]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 90
+			ListOrderIndex = 3
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20679,7 +20709,7 @@ CustomScenario
 			sequenceName = [0] vs [5]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 100
+			ListOrderIndex = 4
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20714,7 +20744,7 @@ CustomScenario
 			sequenceName = [0] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 110
+			ListOrderIndex = 5
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20749,7 +20779,7 @@ CustomScenario
 			sequenceName = [0] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 120
+			ListOrderIndex = 6
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20784,7 +20814,7 @@ CustomScenario
 			sequenceName = [0] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 130
+			ListOrderIndex = 7
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20819,7 +20849,7 @@ CustomScenario
 			sequenceName = [0] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 140
+			ListOrderIndex = 8
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20854,7 +20884,7 @@ CustomScenario
 			sequenceName = [0] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 150
+			ListOrderIndex = 9
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20889,7 +20919,7 @@ CustomScenario
 			sequenceName = [0] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 160
+			ListOrderIndex = 10
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20924,7 +20954,7 @@ CustomScenario
 			sequenceName = [0] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 170
+			ListOrderIndex = 11
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20959,7 +20989,7 @@ CustomScenario
 			sequenceName = [0] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 180
+			ListOrderIndex = 12
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -20994,7 +21024,7 @@ CustomScenario
 			sequenceName = [0] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 190
+			ListOrderIndex = 13
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21029,7 +21059,7 @@ CustomScenario
 			sequenceName = [0] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 200
+			ListOrderIndex = 14
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21064,7 +21094,7 @@ CustomScenario
 			sequenceName = [0] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 210
+			ListOrderIndex = 15
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21099,7 +21129,7 @@ CustomScenario
 			sequenceName = [0] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 220
+			ListOrderIndex = 16
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21134,7 +21164,7 @@ CustomScenario
 			sequenceName = [0] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 230
+			ListOrderIndex = 17
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21169,7 +21199,7 @@ CustomScenario
 			sequenceName = [0] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 240
+			ListOrderIndex = 18
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21204,7 +21234,7 @@ CustomScenario
 			sequenceName = [1] vs [2]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 250
+			ListOrderIndex = 19
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21239,7 +21269,7 @@ CustomScenario
 			sequenceName = [1] vs [3]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 260
+			ListOrderIndex = 20
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21274,7 +21304,7 @@ CustomScenario
 			sequenceName = [1] vs [4]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 270
+			ListOrderIndex = 21
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21309,7 +21339,7 @@ CustomScenario
 			sequenceName = [1] vs [5]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 280
+			ListOrderIndex = 22
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21344,7 +21374,7 @@ CustomScenario
 			sequenceName = [1] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 290
+			ListOrderIndex = 23
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21379,7 +21409,7 @@ CustomScenario
 			sequenceName = [1] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 300
+			ListOrderIndex = 24
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21414,7 +21444,7 @@ CustomScenario
 			sequenceName = [1] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 310
+			ListOrderIndex = 25
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21449,7 +21479,7 @@ CustomScenario
 			sequenceName = [1] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 320
+			ListOrderIndex = 26
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21484,7 +21514,7 @@ CustomScenario
 			sequenceName = [1] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 330
+			ListOrderIndex = 27
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21519,7 +21549,7 @@ CustomScenario
 			sequenceName = [1] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 340
+			ListOrderIndex = 28
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21554,7 +21584,7 @@ CustomScenario
 			sequenceName = [1] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 350
+			ListOrderIndex = 29
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21589,7 +21619,7 @@ CustomScenario
 			sequenceName = [1] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 360
+			ListOrderIndex = 30
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21624,7 +21654,7 @@ CustomScenario
 			sequenceName = [1] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 370
+			ListOrderIndex = 31
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21659,7 +21689,7 @@ CustomScenario
 			sequenceName = [1] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 380
+			ListOrderIndex = 32
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21694,7 +21724,7 @@ CustomScenario
 			sequenceName = [1] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 390
+			ListOrderIndex = 33
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21729,7 +21759,7 @@ CustomScenario
 			sequenceName = [1] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 400
+			ListOrderIndex = 34
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21764,7 +21794,7 @@ CustomScenario
 			sequenceName = [1] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 410
+			ListOrderIndex = 35
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21799,7 +21829,7 @@ CustomScenario
 			sequenceName = [1] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 420
+			ListOrderIndex = 36
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21834,7 +21864,7 @@ CustomScenario
 			sequenceName = [2] vs [3]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 430
+			ListOrderIndex = 37
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21869,7 +21899,7 @@ CustomScenario
 			sequenceName = [2] vs [4]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 440
+			ListOrderIndex = 38
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21904,7 +21934,7 @@ CustomScenario
 			sequenceName = [2] vs [5]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 450
+			ListOrderIndex = 39
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21939,7 +21969,7 @@ CustomScenario
 			sequenceName = [2] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 460
+			ListOrderIndex = 40
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -21974,7 +22004,7 @@ CustomScenario
 			sequenceName = [2] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 470
+			ListOrderIndex = 41
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22009,7 +22039,7 @@ CustomScenario
 			sequenceName = [2] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 480
+			ListOrderIndex = 42
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22044,7 +22074,7 @@ CustomScenario
 			sequenceName = [2] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 490
+			ListOrderIndex = 43
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22079,7 +22109,7 @@ CustomScenario
 			sequenceName = [2] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 500
+			ListOrderIndex = 44
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22114,7 +22144,7 @@ CustomScenario
 			sequenceName = [2] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 510
+			ListOrderIndex = 45
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22149,7 +22179,7 @@ CustomScenario
 			sequenceName = [2] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 520
+			ListOrderIndex = 46
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22184,7 +22214,7 @@ CustomScenario
 			sequenceName = [2] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 530
+			ListOrderIndex = 47
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22219,7 +22249,7 @@ CustomScenario
 			sequenceName = [2] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 540
+			ListOrderIndex = 48
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22254,7 +22284,7 @@ CustomScenario
 			sequenceName = [2] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 550
+			ListOrderIndex = 49
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22289,7 +22319,7 @@ CustomScenario
 			sequenceName = [2] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 560
+			ListOrderIndex = 50
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22324,7 +22354,7 @@ CustomScenario
 			sequenceName = [2] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 570
+			ListOrderIndex = 51
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22359,7 +22389,7 @@ CustomScenario
 			sequenceName = [2] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 580
+			ListOrderIndex = 52
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22394,7 +22424,7 @@ CustomScenario
 			sequenceName = [2] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 590
+			ListOrderIndex = 53
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22429,7 +22459,7 @@ CustomScenario
 			sequenceName = [3] vs [4]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 600
+			ListOrderIndex = 54
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22464,7 +22494,7 @@ CustomScenario
 			sequenceName = [3] vs [5]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 610
+			ListOrderIndex = 55
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22499,7 +22529,7 @@ CustomScenario
 			sequenceName = [3] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 620
+			ListOrderIndex = 56
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22534,7 +22564,7 @@ CustomScenario
 			sequenceName = [3] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 630
+			ListOrderIndex = 57
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22569,7 +22599,7 @@ CustomScenario
 			sequenceName = [3] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 640
+			ListOrderIndex = 58
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22604,7 +22634,7 @@ CustomScenario
 			sequenceName = [3] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 650
+			ListOrderIndex = 59
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22639,7 +22669,7 @@ CustomScenario
 			sequenceName = [3] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 660
+			ListOrderIndex = 60
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22674,7 +22704,7 @@ CustomScenario
 			sequenceName = [3] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 670
+			ListOrderIndex = 61
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22709,7 +22739,7 @@ CustomScenario
 			sequenceName = [3] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 680
+			ListOrderIndex = 62
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22744,7 +22774,7 @@ CustomScenario
 			sequenceName = [3] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 690
+			ListOrderIndex = 63
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22779,7 +22809,7 @@ CustomScenario
 			sequenceName = [3] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 700
+			ListOrderIndex = 64
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22814,7 +22844,7 @@ CustomScenario
 			sequenceName = [3] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 710
+			ListOrderIndex = 65
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22849,7 +22879,7 @@ CustomScenario
 			sequenceName = [3] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 720
+			ListOrderIndex = 66
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22884,7 +22914,7 @@ CustomScenario
 			sequenceName = [3] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 730
+			ListOrderIndex = 67
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22919,7 +22949,7 @@ CustomScenario
 			sequenceName = [3] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 740
+			ListOrderIndex = 68
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22954,7 +22984,7 @@ CustomScenario
 			sequenceName = [3] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 750
+			ListOrderIndex = 69
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -22989,7 +23019,7 @@ CustomScenario
 			sequenceName = [4] vs [5]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 760
+			ListOrderIndex = 70
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23024,7 +23054,7 @@ CustomScenario
 			sequenceName = [4] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 770
+			ListOrderIndex = 71
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23059,7 +23089,7 @@ CustomScenario
 			sequenceName = [4] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 780
+			ListOrderIndex = 72
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23094,7 +23124,7 @@ CustomScenario
 			sequenceName = [4] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 790
+			ListOrderIndex = 73
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23129,7 +23159,7 @@ CustomScenario
 			sequenceName = [4] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 800
+			ListOrderIndex = 74
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23164,7 +23194,7 @@ CustomScenario
 			sequenceName = [4] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 810
+			ListOrderIndex = 75
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23199,7 +23229,7 @@ CustomScenario
 			sequenceName = [4] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 820
+			ListOrderIndex = 76
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23234,7 +23264,7 @@ CustomScenario
 			sequenceName = [4] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 830
+			ListOrderIndex = 77
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23269,7 +23299,7 @@ CustomScenario
 			sequenceName = [4] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 840
+			ListOrderIndex = 78
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23304,7 +23334,7 @@ CustomScenario
 			sequenceName = [4] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 850
+			ListOrderIndex = 79
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23339,7 +23369,7 @@ CustomScenario
 			sequenceName = [4] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 860
+			ListOrderIndex = 80
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23374,7 +23404,7 @@ CustomScenario
 			sequenceName = [4] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 870
+			ListOrderIndex = 81
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23409,7 +23439,7 @@ CustomScenario
 			sequenceName = [4] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 880
+			ListOrderIndex = 82
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23444,7 +23474,7 @@ CustomScenario
 			sequenceName = [4] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 890
+			ListOrderIndex = 83
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23479,7 +23509,7 @@ CustomScenario
 			sequenceName = [4] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 900
+			ListOrderIndex = 84
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23514,7 +23544,7 @@ CustomScenario
 			sequenceName = [5] vs [6]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 910
+			ListOrderIndex = 85
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23549,7 +23579,7 @@ CustomScenario
 			sequenceName = [5] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 920
+			ListOrderIndex = 86
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23584,7 +23614,7 @@ CustomScenario
 			sequenceName = [5] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 930
+			ListOrderIndex = 87
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23619,7 +23649,7 @@ CustomScenario
 			sequenceName = [5] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 940
+			ListOrderIndex = 88
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23654,7 +23684,7 @@ CustomScenario
 			sequenceName = [5] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 950
+			ListOrderIndex = 89
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23689,7 +23719,7 @@ CustomScenario
 			sequenceName = [5] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 960
+			ListOrderIndex = 90
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23724,7 +23754,7 @@ CustomScenario
 			sequenceName = [5] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 970
+			ListOrderIndex = 91
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23759,7 +23789,7 @@ CustomScenario
 			sequenceName = [5] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 980
+			ListOrderIndex = 92
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23794,7 +23824,7 @@ CustomScenario
 			sequenceName = [5] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 990
+			ListOrderIndex = 93
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23829,7 +23859,7 @@ CustomScenario
 			sequenceName = [5] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1000
+			ListOrderIndex = 94
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23864,7 +23894,7 @@ CustomScenario
 			sequenceName = [5] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1010
+			ListOrderIndex = 95
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23899,7 +23929,7 @@ CustomScenario
 			sequenceName = [5] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1020
+			ListOrderIndex = 96
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23934,7 +23964,7 @@ CustomScenario
 			sequenceName = [5] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1030
+			ListOrderIndex = 97
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -23969,7 +23999,7 @@ CustomScenario
 			sequenceName = [5] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1040
+			ListOrderIndex = 98
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24004,7 +24034,7 @@ CustomScenario
 			sequenceName = [6] vs [7]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1050
+			ListOrderIndex = 99
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24039,7 +24069,7 @@ CustomScenario
 			sequenceName = [6] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1060
+			ListOrderIndex = 100
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24074,7 +24104,7 @@ CustomScenario
 			sequenceName = [6] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1070
+			ListOrderIndex = 101
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24109,7 +24139,7 @@ CustomScenario
 			sequenceName = [6] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1080
+			ListOrderIndex = 102
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24144,7 +24174,7 @@ CustomScenario
 			sequenceName = [6] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1090
+			ListOrderIndex = 103
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24179,7 +24209,7 @@ CustomScenario
 			sequenceName = [6] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1100
+			ListOrderIndex = 104
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24214,7 +24244,7 @@ CustomScenario
 			sequenceName = [6] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1110
+			ListOrderIndex = 105
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24249,7 +24279,7 @@ CustomScenario
 			sequenceName = [6] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1120
+			ListOrderIndex = 106
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24284,7 +24314,7 @@ CustomScenario
 			sequenceName = [6] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1130
+			ListOrderIndex = 107
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24319,7 +24349,7 @@ CustomScenario
 			sequenceName = [6] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1140
+			ListOrderIndex = 108
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24354,7 +24384,7 @@ CustomScenario
 			sequenceName = [6] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1150
+			ListOrderIndex = 109
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24389,7 +24419,7 @@ CustomScenario
 			sequenceName = [6] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1160
+			ListOrderIndex = 110
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24424,7 +24454,7 @@ CustomScenario
 			sequenceName = [6] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1170
+			ListOrderIndex = 111
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24459,7 +24489,7 @@ CustomScenario
 			sequenceName = [7] vs [8]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1180
+			ListOrderIndex = 112
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24494,7 +24524,7 @@ CustomScenario
 			sequenceName = [7] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1190
+			ListOrderIndex = 113
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24529,7 +24559,7 @@ CustomScenario
 			sequenceName = [7] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1200
+			ListOrderIndex = 114
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24564,7 +24594,7 @@ CustomScenario
 			sequenceName = [7] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1210
+			ListOrderIndex = 115
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24599,7 +24629,7 @@ CustomScenario
 			sequenceName = [7] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1220
+			ListOrderIndex = 116
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24634,7 +24664,7 @@ CustomScenario
 			sequenceName = [7] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1230
+			ListOrderIndex = 117
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24669,7 +24699,7 @@ CustomScenario
 			sequenceName = [7] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1240
+			ListOrderIndex = 118
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24704,7 +24734,7 @@ CustomScenario
 			sequenceName = [7] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1250
+			ListOrderIndex = 119
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24739,7 +24769,7 @@ CustomScenario
 			sequenceName = [7] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1260
+			ListOrderIndex = 120
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24774,7 +24804,7 @@ CustomScenario
 			sequenceName = [7] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1270
+			ListOrderIndex = 121
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24809,7 +24839,7 @@ CustomScenario
 			sequenceName = [7] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1280
+			ListOrderIndex = 122
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24844,7 +24874,7 @@ CustomScenario
 			sequenceName = [7] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1290
+			ListOrderIndex = 123
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24879,7 +24909,7 @@ CustomScenario
 			sequenceName = [8] vs [9]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1300
+			ListOrderIndex = 124
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24914,7 +24944,7 @@ CustomScenario
 			sequenceName = [8] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1310
+			ListOrderIndex = 125
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24949,7 +24979,7 @@ CustomScenario
 			sequenceName = [8] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1320
+			ListOrderIndex = 126
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -24984,7 +25014,7 @@ CustomScenario
 			sequenceName = [8] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1330
+			ListOrderIndex = 127
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25019,7 +25049,7 @@ CustomScenario
 			sequenceName = [8] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1340
+			ListOrderIndex = 128
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25054,7 +25084,7 @@ CustomScenario
 			sequenceName = [8] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1350
+			ListOrderIndex = 129
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25089,7 +25119,7 @@ CustomScenario
 			sequenceName = [8] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1360
+			ListOrderIndex = 130
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25124,7 +25154,7 @@ CustomScenario
 			sequenceName = [8] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1370
+			ListOrderIndex = 131
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25159,7 +25189,7 @@ CustomScenario
 			sequenceName = [8] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1380
+			ListOrderIndex = 132
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25194,7 +25224,7 @@ CustomScenario
 			sequenceName = [8] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1390
+			ListOrderIndex = 133
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25229,7 +25259,7 @@ CustomScenario
 			sequenceName = [8] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1400
+			ListOrderIndex = 134
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25264,7 +25294,7 @@ CustomScenario
 			sequenceName = [9] vs [10]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1410
+			ListOrderIndex = 135
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25299,7 +25329,7 @@ CustomScenario
 			sequenceName = [9] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1420
+			ListOrderIndex = 136
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25334,7 +25364,7 @@ CustomScenario
 			sequenceName = [9] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1430
+			ListOrderIndex = 137
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25369,7 +25399,7 @@ CustomScenario
 			sequenceName = [9] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1440
+			ListOrderIndex = 138
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25404,7 +25434,7 @@ CustomScenario
 			sequenceName = [9] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1450
+			ListOrderIndex = 139
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25439,7 +25469,7 @@ CustomScenario
 			sequenceName = [9] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1460
+			ListOrderIndex = 140
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25474,7 +25504,7 @@ CustomScenario
 			sequenceName = [9] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1470
+			ListOrderIndex = 141
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25509,7 +25539,7 @@ CustomScenario
 			sequenceName = [9] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1480
+			ListOrderIndex = 142
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25544,7 +25574,7 @@ CustomScenario
 			sequenceName = [9] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1490
+			ListOrderIndex = 143
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25579,7 +25609,7 @@ CustomScenario
 			sequenceName = [9] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1500
+			ListOrderIndex = 144
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25614,7 +25644,7 @@ CustomScenario
 			sequenceName = [10] vs [11]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1510
+			ListOrderIndex = 145
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25649,7 +25679,7 @@ CustomScenario
 			sequenceName = [10] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1520
+			ListOrderIndex = 146
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25684,7 +25714,7 @@ CustomScenario
 			sequenceName = [10] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1530
+			ListOrderIndex = 147
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25719,7 +25749,7 @@ CustomScenario
 			sequenceName = [10] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1540
+			ListOrderIndex = 148
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25754,7 +25784,7 @@ CustomScenario
 			sequenceName = [10] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1550
+			ListOrderIndex = 149
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25789,7 +25819,7 @@ CustomScenario
 			sequenceName = [10] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1560
+			ListOrderIndex = 150
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25824,7 +25854,7 @@ CustomScenario
 			sequenceName = [10] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1570
+			ListOrderIndex = 151
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25859,7 +25889,7 @@ CustomScenario
 			sequenceName = [10] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1580
+			ListOrderIndex = 152
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25894,7 +25924,7 @@ CustomScenario
 			sequenceName = [10] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1590
+			ListOrderIndex = 153
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25929,7 +25959,7 @@ CustomScenario
 			sequenceName = [11] vs [12]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1600
+			ListOrderIndex = 154
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25964,7 +25994,7 @@ CustomScenario
 			sequenceName = [11] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1610
+			ListOrderIndex = 155
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -25999,7 +26029,7 @@ CustomScenario
 			sequenceName = [11] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1620
+			ListOrderIndex = 156
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26034,7 +26064,7 @@ CustomScenario
 			sequenceName = [11] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1630
+			ListOrderIndex = 157
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26069,7 +26099,7 @@ CustomScenario
 			sequenceName = [11] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1640
+			ListOrderIndex = 158
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26104,7 +26134,7 @@ CustomScenario
 			sequenceName = [11] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1650
+			ListOrderIndex = 159
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26139,7 +26169,7 @@ CustomScenario
 			sequenceName = [11] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1660
+			ListOrderIndex = 160
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26174,7 +26204,7 @@ CustomScenario
 			sequenceName = [11] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1670
+			ListOrderIndex = 161
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26209,7 +26239,7 @@ CustomScenario
 			sequenceName = [12] vs [13]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1680
+			ListOrderIndex = 162
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26244,7 +26274,7 @@ CustomScenario
 			sequenceName = [12] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1690
+			ListOrderIndex = 163
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26279,7 +26309,7 @@ CustomScenario
 			sequenceName = [12] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1700
+			ListOrderIndex = 164
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26314,7 +26344,7 @@ CustomScenario
 			sequenceName = [12] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1710
+			ListOrderIndex = 165
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26349,7 +26379,7 @@ CustomScenario
 			sequenceName = [12] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1720
+			ListOrderIndex = 166
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26384,7 +26414,7 @@ CustomScenario
 			sequenceName = [12] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1730
+			ListOrderIndex = 167
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26419,7 +26449,7 @@ CustomScenario
 			sequenceName = [12] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1740
+			ListOrderIndex = 168
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26454,7 +26484,7 @@ CustomScenario
 			sequenceName = [13] vs [14]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1750
+			ListOrderIndex = 169
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26489,7 +26519,7 @@ CustomScenario
 			sequenceName = [13] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1760
+			ListOrderIndex = 170
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26524,7 +26554,7 @@ CustomScenario
 			sequenceName = [13] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1770
+			ListOrderIndex = 171
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26559,7 +26589,7 @@ CustomScenario
 			sequenceName = [13] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1780
+			ListOrderIndex = 172
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26594,7 +26624,7 @@ CustomScenario
 			sequenceName = [13] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1790
+			ListOrderIndex = 173
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26629,7 +26659,7 @@ CustomScenario
 			sequenceName = [13] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1800
+			ListOrderIndex = 174
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26664,7 +26694,7 @@ CustomScenario
 			sequenceName = [14] vs [15]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1810
+			ListOrderIndex = 175
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26699,7 +26729,7 @@ CustomScenario
 			sequenceName = [14] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1820
+			ListOrderIndex = 176
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26734,7 +26764,7 @@ CustomScenario
 			sequenceName = [14] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1830
+			ListOrderIndex = 177
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26769,7 +26799,7 @@ CustomScenario
 			sequenceName = [14] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1840
+			ListOrderIndex = 178
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26804,7 +26834,7 @@ CustomScenario
 			sequenceName = [14] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1850
+			ListOrderIndex = 179
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26839,7 +26869,7 @@ CustomScenario
 			sequenceName = [15] vs [16]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1860
+			ListOrderIndex = 180
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26874,7 +26904,7 @@ CustomScenario
 			sequenceName = [15] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1870
+			ListOrderIndex = 181
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26909,7 +26939,7 @@ CustomScenario
 			sequenceName = [15] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1880
+			ListOrderIndex = 182
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26944,7 +26974,7 @@ CustomScenario
 			sequenceName = [15] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1890
+			ListOrderIndex = 183
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -26979,7 +27009,7 @@ CustomScenario
 			sequenceName = [16] vs [17]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1900
+			ListOrderIndex = 184
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27014,7 +27044,7 @@ CustomScenario
 			sequenceName = [16] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1910
+			ListOrderIndex = 185
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27049,7 +27079,7 @@ CustomScenario
 			sequenceName = [16] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1920
+			ListOrderIndex = 186
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27084,7 +27114,7 @@ CustomScenario
 			sequenceName = [17] vs [18]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1930
+			ListOrderIndex = 187
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27119,7 +27149,7 @@ CustomScenario
 			sequenceName = [17] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1940
+			ListOrderIndex = 188
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27154,7 +27184,7 @@ CustomScenario
 			sequenceName = [18] vs [19]
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1950
+			ListOrderIndex = 189
 			ListFolderName = Collisions
 			EVENT
 			{
@@ -27189,7 +27219,7 @@ CustomScenario
 			sequenceName = Start Sortie
 			startImmediately = False
 			whileLoop = False
-			ListOrderIndex = 1960
+			ListOrderIndex = 60
 			ListFolderName = 
 			EVENT
 			{
@@ -27763,7 +27793,7 @@ CustomScenario
 			sequenceName = Reset Sortie
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1970
+			ListOrderIndex = 70
 			ListFolderName = 
 			EVENT
 			{
@@ -28367,7 +28397,7 @@ CustomScenario
 			sequenceName = Kill spectators
 			startImmediately = True
 			whileLoop = False
-			ListOrderIndex = 1980
+			ListOrderIndex = 80
 			ListFolderName = 
 			EVENT
 			{
