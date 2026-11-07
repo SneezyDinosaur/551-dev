@@ -338,7 +338,7 @@ CustomScenario
 				slotLabel = Airbase 1 
 				unitGroup = Allied:Echo
 				startMode = FlightReady
-				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
+				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = True
@@ -347,7 +347,7 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				slots = 2
-				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_amraamRail;ef24_phoenixSide;ef24_amraamRail;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
+				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_phoenixSide;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -683,7 +683,7 @@ CustomScenario
 				slotLabel = Airbase 2 
 				unitGroup = Allied:Echo
 				startMode = FlightReady
-				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
+				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = True
@@ -692,7 +692,7 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				slots = 2
-				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_amraamRail;ef24_phoenixSide;ef24_amraamRail;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
+				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_phoenixSide;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -1028,7 +1028,7 @@ CustomScenario
 				slotLabel = Airbase 1 
 				unitGroup = Enemy:Echo
 				startMode = FlightReady
-				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
+				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = True
@@ -1037,7 +1037,7 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				slots = 2
-				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_amraamRail;ef24_phoenixSide;ef24_amraamRail;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
+				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_phoenixSide;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
@@ -1373,7 +1373,7 @@ CustomScenario
 				slotLabel = Airbase 2 
 				unitGroup = Enemy:Echo
 				startMode = FlightReady
-				equipment = ef24_airst-x1;ef24_amraamRail;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
+				equipment = ef24_airst-x1;ef24_amraamUnder;ef24_marmx1;ef24_gbu12x1;ef24_gbu12x2;ef24_gbu12x3;ef24_gbu38x1;ef24_gbu38x2;ef24_gbu38x3;ef24_gbu39x4;ef24_mk82x1;ef24_mk82x2;ef24_mk82x3;ef24_mk82x4;ef24_mk82HDx1;ef24_mk82HDx2;ef24_mk82HDx3;ef24_mk82HDx4;ef24_mk83x1;ef24_mk83x2;ef24_agm161;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = True
@@ -1382,7 +1382,7 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				slots = 2
-				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_amraamRail;ef24_phoenixSide;ef24_amraamRail;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
+				forcedEquipsList = ef24_gun;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_phoenixUnder;ef24_aim9x1;ef24_phoenixSide;ef24_aim9x1;ef24_phoenixSide;free;free;ef24_tgp;|
 				b_eqAssignmentMode = True
 			}
 			altSpawn
